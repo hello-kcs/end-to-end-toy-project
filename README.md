@@ -1,1 +1,1 @@
-# end-to-end-toy-project
+project_logistic_regression
